@@ -1,0 +1,7 @@
+{
+    "DomainFQDN":           "hcls-lev.com",
+    "StackIds":             [stack-ups1mfah7gtidgtjp],
+    "TimeRequestedInHours": 8,
+    "Username":             "rajesent",
+    "VpcId":                "vpc-09cce781c34b16ad9"
+}

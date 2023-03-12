@@ -1,0 +1,7 @@
+{
+    "DomainFQDN":           "userdomain",
+    "StackIds":             [stackvalue],
+    "TimeRequestedInHours": requestedNumberOfHours,
+    "Username":             "acctname",
+    "VpcId":                "awsVpcId"
+}
